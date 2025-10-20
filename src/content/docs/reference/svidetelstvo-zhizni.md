@@ -9,7 +9,7 @@ dir: school/konflikt
 ### ✝️ Урок №1 — Свидетельство жизни
 
 <audio controls>
-  <source src="/audio/chto_tacoe_probudenie.mp3" type="audio/mpeg" />
+  <source src="/audio/01_conflict/1_1_svidetelcndj_jizni.mp3" type="audio/mpeg" />
   Ваш браузер не поддерживает аудио.
 </audio>
 
@@ -52,7 +52,7 @@ dir: school/konflikt
 Церковь находится здесь для **свидетельства жизни**, и своим существованием мы должны демонстрировать, что **Бог воскресил Иисуса из мёртвых**…
 
 <audio controls>
-  <source src="/audio/chto_tacoe_probudenie.mp3" type="audio/mpeg" />
+  <source src="/audio/01_conflict/1_1_svidetelcndj_jizni.mp3" type="audio/mpeg" />
   Ваш браузер не поддерживает аудио.
 </audio>
 
