@@ -19,3 +19,7 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# Ignore video files (keep large media out of git)
+public/videos/**/*.mp4
+public/videos/*.mp4
