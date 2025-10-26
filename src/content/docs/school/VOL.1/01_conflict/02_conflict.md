@@ -4,9 +4,10 @@ description: Второй урок из серии «Конфликт» Школ
 dir: school/konflikt
 ---
 
-  <video width="100%" height="auto" controls poster="/assets/world_soc.jpg">
-    <source src="/videos/conflikt/02_spor_za_sion.mp4" type="video/mp4" />
-  </video>
+<audio controls>
+  <source src="/audio/01 - conflict/1-2-spor-za-sion.mp3" type="audio/mpeg" />
+  Ваш браузер не поддерживает аудио.
+</audio>
 
 # Серия: Конфликт
 

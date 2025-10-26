@@ -4,9 +4,10 @@ description: Четвёртый урок из серии «Конфликт» Ш
 dir: school/konflikt
 ---
 
-  <video width="100%" height="auto" controls poster="/assets/world_soc.jpg">
-    <source src="/videos/conflikt/04_otnoshenie_hrista_i_cerkvi.mp4" type="video/mp4" />
-  </video>
+<audio controls>
+  <source src="/audio/01 - conflict/1-4-obchenie-hrista-s-cerkobu.mp3" type="audio/mpeg" />
+  Ваш браузер не поддерживает аудио.
+</audio>
 
 # Серия: Конфликт
 

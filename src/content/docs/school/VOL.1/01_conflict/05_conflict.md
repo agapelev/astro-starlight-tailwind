@@ -4,9 +4,10 @@ description: Пятый урок из серии «Конфликт» Школы
 dir: school/konflikt
 ---
 
-  <video width="100%" height="auto" controls poster="/assets/world_soc.jpg">
-    <source src="/videos/conflikt/05_cil_conflict.mp4" type="video/mp4" />
-  </video>
+<audio controls>
+  <source src="/audio/01 - conflict/1-5-cel-conflicta.mp3" type="audio/mpeg" />
+  Ваш браузер не поддерживает аудио.
+</audio>
 
 # Серия: Конфликт
 

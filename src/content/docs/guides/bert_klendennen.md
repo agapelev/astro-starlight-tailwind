@@ -9,6 +9,8 @@ description: Пастор, учитель Слова Божьего. Основ�
 
 ![Изображение Урока](/assets/bert.png)
 
+![Изображение Урока](/assets/book_1_klendennen.png)
+
 <div style="text-align: center;">
   <img src="/assets/klendennen.jpeg" alt="Изображение Урока" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 </div>
