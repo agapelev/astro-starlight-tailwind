@@ -10,6 +10,8 @@ description: Третий урок из серии «Конфликт» Школ
 
 # Серия: Конфликт
 
+<iframe width="493" height="364" src="https://www.youtube.com/embed/C1G0OAUbn80?list=PLfM-OuaUPuSddNiWCLr6whzcgcW16LTTk" title="Школа Христа. Берт Кленденнен. 2000 год." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # ✝️ КРЕСТ И ЖИЗНЬ
 
 ### Урок № 3

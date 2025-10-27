@@ -10,6 +10,8 @@ dir: school/konflikt
 
 ## 🔥 Серия: Конфликт
 
+<iframe width="560" height="564" src="https://www.youtube.com/embed/cNB4rXrYQFg?list=PLfM-OuaUPuSddNiWCLr6whzcgcW16LTTk" title="Школа Христа. Берт Кленденнен. 2000 год." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### ✝️ Урок №1 — Свидетельство жизни
 
 <audio controls>

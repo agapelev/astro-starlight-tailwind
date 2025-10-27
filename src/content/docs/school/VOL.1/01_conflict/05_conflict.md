@@ -11,6 +11,8 @@ dir: school/konflikt
 
 # Серия: Конфликт
 
+<iframe width="493" height="364" src="https://www.youtube.com/embed/PL5LVqBe20I?list=PLfM-OuaUPuSddNiWCLr6whzcgcW16LTTk" title="Школа Христа. Берт Кленденнен. 2000 год." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # ⚔️ ЦЕЛЬ КОНФЛИКТА 👑
 
 ### Урок № 5
